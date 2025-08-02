@@ -1,4 +1,4 @@
-# Task 2: Credit Risk Prediction
+# Credit Risk Prediction
 
 ## 🎯 Objective
 
