@@ -97,4 +97,4 @@ The goal of this task is to predict whether a loan application will be approved 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SayabArshad/Task-2-Credit-Risk-Prediction.git
+   git clone https://github.com/SayabArshad/Credit-Risk-Prediction.git
